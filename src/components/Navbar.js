@@ -4,7 +4,7 @@ function Navbar() {
         <div className="container-fluid p-0">
             
             <nav className="navbar navbar-expand-lg navbar-expand-sm navbar-light bg-light pt-5">
-                <a className="navbar-brand text-primary font-weight-bold ml-4" href="./"><h1>Poderío UI</h1></a>
+                <a className="navbar-brand text-primary font-weight-bold ml-4 px-3" href="./"><h1>Poderío UI</h1></a>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false"
                     aria-label="Toggle navigation">

@@ -2,6 +2,7 @@
 // import './App.css';
 import Navbar from "./components/Navbar";
 import Section from "./components/Section";
+import Footer from "./components/Footer";
 //azucar sintactico: JSX => JS + HTML/XML
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
     <div className="App">
       <Navbar />
       <Section />
+      <Footer />
     </div>
   );
 }
